@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "App-Tematizado-com-Roles-e-RLS",
+    "slug": "App-Tematizado-com-Roles-e-RLS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+
+    "ios": {},
+
+    "android": {},
+
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}
